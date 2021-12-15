@@ -5,12 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm Ali from Iran, and I'm a Front-End Developer with experience building websites and web applications. I specialize in JavaScript, Html, CSS and React. I also enjoy learning new technologies and making myself better.
 
 ### Contact me
 
-[ali.bahadoran@yahoo.com](mailto:ali.bahadoran@yahoo.com)
+[alibahadoran.eng@gmail.com](mailto:alibahadoran.eng@gmail.com)
